@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "1055f02f_86921c79",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2024-03-06T15:39:54Z",
+      "side": 1,
+      "message": "May need to revert old vibrator removal later for old devices, e.g. sunfish.",
+      "revId": "4d71e022833bfa4085471047701731178fc03fc1",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
