@@ -16,6 +16,24 @@
       "message": "May need to revert old vibrator removal later for old devices, e.g. sunfish.",
       "revId": "4d71e022833bfa4085471047701731178fc03fc1",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "06e596e9_b26c2ed6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2024-03-07T19:15:29Z",
+      "side": 1,
+      "message": "That can and should be added back to devices instead.",
+      "parentUuid": "1055f02f_86921c79",
+      "revId": "4d71e022833bfa4085471047701731178fc03fc1",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
