@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "2f22ed4c_7e0a85e7",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2024-06-11T20:31:02Z",
+      "side": 1,
+      "message": "See if an older devices are affected by \"bm: Migrate battery_mitigation to vendor\"",
+      "revId": "8ae373b124160fb51d72b0ec799fb1ab7ab57c3e",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
